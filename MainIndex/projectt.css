@@ -1,0 +1,50 @@
+.project-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+}
+
+.project-card {
+    background-color: #ccccff;
+    border-radius: 8px;
+    box-shadow: 0 9px 5px rgba(0, 0, 0, 0.1);
+    padding: 130px;
+    max-width: 900px;
+    width: 100%;
+}
+
+.project-card h2 {
+    font-size: 26px;
+    margin-bottom: 30px;
+}
+
+.project-description {
+    font-size: 22px;
+    line-height: 1.7;
+}
+
+.project-details {
+    list-style:inside;
+    padding: 0;
+    margin-top: 15px;
+}
+
+.project-details li {
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.future-roadmap {
+    font-size: 26px;
+   text-align: center;
+    margin-top: 80px;
+}
+
+footer {
+    background-color: #555;
+    color: white;
+    text-align: center;
+    padding: 10px;
+<link rel="stylesheet" type"
+}

@@ -1,0 +1,51 @@
+
+body {
+  margin: 50;
+  font-family: Arial, sans-serif;
+}
+
+
+.portfolio {
+  padding: 50px ;
+  text-align: center;
+  color:#000
+}
+
+.portfolio h2 {
+  font-size: 2em;
+  margin-bottom: 50px;
+}
+
+.portfolio-items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.portfolio-item {
+  margin: 20px;
+  max-width: 200px;
+}
+
+.portfolio-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 40px;
+}
+
+.portfolio-item h3 {
+  margin-top: 10px;
+}
+
+.portfolio-item p {
+  color: #333;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+<link rel="stylesheet" type"
+}
